@@ -1158,6 +1158,11 @@
   dependencies:
     "@types/hammerjs" "^2.0.36"
 
+"@expo-google-fonts/noto-sans-kr@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/noto-sans-kr/-/noto-sans-kr-0.1.0.tgz#09d01f38d5dce88f88de1aeff1d9ff47f59a814e"
+  integrity sha512-mwtwRwD+9wc49/2rBxmJ6mBtGdJECxTWk5ghVb5dLoFuqFAKjgh/6MCurmmcSi34i9uYQ75+T+cl+tMOhJ+L4Q==
+
 "@expo/config-plugins@1.0.33", "@expo/config-plugins@^1.0.18":
   version "1.0.33"
   resolved "https://registry.yarnpkg.com/@expo/config-plugins/-/config-plugins-1.0.33.tgz#8ee78ea6f939f7e04606e9afa22b32139ea974a0"
