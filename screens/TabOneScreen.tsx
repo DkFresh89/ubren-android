@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
   title: {
     color: "#eee",
     fontSize: 20,
-    fontWeight: 'bold',
+    // fontWeight: 'bold',
     fontFamily: "NotoSansKR_700Bold"
   },
   separator: {
